@@ -1,8 +1,7 @@
 # AdaptiveFL: Communication-Adaptive Federated Learning under Dynamic Bandwidth 
 
 Code for the following paper:
-
-Guozhi Liu, Weiwei Lin, Tiansheng Huang, Fang Shi, Wentai Wu, and Li Shen, "AdaptiveFL: Communication-Adaptive Federated Learning under Dynamic Bandwidth".
+"AdaptiveFL: Communication-Adaptive Federated Learning under Dynamic Bandwidth".
 
 ## Introduction
 
