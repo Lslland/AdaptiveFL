@@ -1,3 +1,2 @@
-# SlimFLBandwidth
+# AdaptiveFL: Communication-Adaptive Federated Learning under Dynamic Bandwidth 
 
-SFW, Bandwidth, federated learning
