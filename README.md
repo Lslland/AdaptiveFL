@@ -15,7 +15,7 @@ Federated Learning (FL) is a distributed machine learning paradigm that enables 
 ## Usage
 
 ### Train ResNet9 on CIFAR10:
-running sdfl_experiments/standalone/AdaptiveFL/adaptivefl_exp.py
+Running ``sdfl_experiments/standalone/AdaptiveFL/adaptivefl_exp.py``.
 
 
 ### Parameters
